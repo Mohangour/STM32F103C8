@@ -6213,7 +6213,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "10p"
+		(property "Value" "22p"
 			(at 31.75 97.7899 0)
 			(effects
 				(font
@@ -6418,7 +6418,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "10p"
+		(property "Value" "22p"
 			(at 52.07 97.7899 0)
 			(effects
 				(font
